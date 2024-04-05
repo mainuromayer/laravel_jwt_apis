@@ -38,11 +38,11 @@
 
 ## API Routes
 
-- **[POST] [register](http://127.0.0.1:8000/api/register)**
-- **[POST] [login](http://127.0.0.1:8000/api/login)**
-- **[GET] [profile](http://127.0.0.1:8000/api/profile)**
-- - **[GET] [refresh](http://127.0.0.1:8000/api/refresh)**
-- **[GET] [logout](http://127.0.0.1:8000/api/logout)**
+- **[POST] [register](http://127.0.0.1:8000/api/register) (http://127.0.0.1:8000/api/register)**
+- **[POST] [login](http://127.0.0.1:8000/api/login) (http://127.0.0.1:8000/api/login)**
+- **[GET] [profile](http://127.0.0.1:8000/api/profile) (http://127.0.0.1:8000/api/profile)**
+- **[GET] [refresh](http://127.0.0.1:8000/api/refresh) (http://127.0.0.1:8000/api/refresh)**
+- **[GET] [logout](http://127.0.0.1:8000/api/logout) (http://127.0.0.1:8000/api/logout)**
 
 
 
