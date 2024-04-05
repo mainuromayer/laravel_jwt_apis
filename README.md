@@ -47,5 +47,5 @@
 
 
 ## Source:
-- [Laravel 10 RESTful APIs with JWT Authentication]([https://laravel.com/docs/routing](https://onlinewebtutorblog.com/laravel-10-restful-apis-with-jwt-authentication/)).
+- [Laravel 10 RESTful APIs with JWT Authentication] ([https://laravel.com/docs/routing](https://onlinewebtutorblog.com/laravel-10-restful-apis-with-jwt-authentication/)).
 
